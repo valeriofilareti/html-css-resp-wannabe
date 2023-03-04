@@ -142,5 +142,16 @@ img {
         width: 100%;
         margin-bottom: 60px;
     }
+}
 
+@media screen and (max-width: 768px ) {
+    .container {
+        width: 85%;
+    }
+}
+
+@media screen and (max-width: 1160px) {
+    .container {
+        width: 85%;
+    }
 }
